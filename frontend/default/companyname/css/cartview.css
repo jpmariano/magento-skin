@@ -1,0 +1,11 @@
+
+#cartview-link { overflow: hidden; text-align: center; display: block; }
+#cartview-panel { min-width:750px; width: 100%; position: absolute; right: 0; text-align: left; z-index: 1000; background-color: #f1f1f1; padding: 20px 20px 0 20px;}
+#cartview-panel .block-title { display: none }
+div#cartview { position: relative; z-index: 99999;  }
+div#click-to-continue-btn { float:left; }
+.cart #cart-header .totals .continue_shopping { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; padding: 9px 15px; font-weight: 500; }
+#cart-header div#checkout-btn { float: right; }
+#cart-header .price { float: none; }
+#cart-header .totals .continue_shopping { margin: 0; }
+div.span4.pull-right.header-buttons { margin-top: 10px; }
